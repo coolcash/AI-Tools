@@ -25,3 +25,13 @@ https://blog.pincel.app/ai-qr-code
 New Design Platform for AI and Animations made for designers
 
 https://app.modyfi.com/
+
+## gpt4all
+
+Run Large Language Models Locally
+
+https://www.nomic.ai/gpt4all
+
+## Limewire
+
+https://limewire.com/?referrer=gquyyuykw6
